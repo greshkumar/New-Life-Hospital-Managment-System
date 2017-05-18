@@ -1,0 +1,176 @@
+C:\Users\Faisal\Desktop\New Life Hospital\Hospital_Managerment_System\bin\Debug\Hospital_Managerment_System.exe
+C:\Users\Faisal\Desktop\New Life Hospital\Hospital_Managerment_System\bin\Debug\Hospital_Managerment_System.pdb
+C:\Users\Faisal\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmAbout.resources
+C:\Users\Faisal\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmContactus.resources
+C:\Users\Faisal\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmDoctorC.resources
+C:\Users\Faisal\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmDoctorD.resources
+C:\Users\Faisal\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmDoctorR.resources
+C:\Users\Faisal\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmHelp.resources
+C:\Users\Faisal\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmLogin.resources
+C:\Users\Faisal\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmMain.resources
+C:\Users\Faisal\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientC.resources
+C:\Users\Faisal\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientD.resources
+C:\Users\Faisal\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientR.resources
+C:\Users\Faisal\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientU.resources
+C:\Users\Faisal\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPharmacy.resources
+C:\Users\Faisal\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPharmacyD.resources
+C:\Users\Faisal\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPharmacyR.resources
+C:\Users\Faisal\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.Properties.Resources.resources
+C:\Users\Faisal\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\New Life Hospital Systems.csproj.GenerateResource.Cache
+C:\Users\Faisal\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.exe
+C:\Users\Faisal\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.pdb
+D:\Desktop\UNI_Files\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.exe
+D:\Desktop\UNI_Files\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.pdb
+D:\Desktop\UNI_Files\New Life Hospital\Hospital_Managerment_System\bin\Debug\Hospital_Managerment_System.exe
+D:\Desktop\UNI_Files\New Life Hospital\Hospital_Managerment_System\bin\Debug\Hospital_Managerment_System.pdb
+D:\Desktop\UNI_Files\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmAbout.resources
+D:\Desktop\UNI_Files\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmContactus.resources
+D:\Desktop\UNI_Files\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmDoctorC.resources
+D:\Desktop\UNI_Files\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmDoctorD.resources
+D:\Desktop\UNI_Files\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmDoctorR.resources
+D:\Desktop\UNI_Files\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmHelp.resources
+D:\Desktop\UNI_Files\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmLogin.resources
+D:\Desktop\UNI_Files\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmMain.resources
+D:\Desktop\UNI_Files\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientC.resources
+D:\Desktop\UNI_Files\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientD.resources
+D:\Desktop\UNI_Files\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientR.resources
+D:\Desktop\UNI_Files\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientU.resources
+D:\Desktop\UNI_Files\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPharmacy.resources
+D:\Desktop\UNI_Files\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPharmacyD.resources
+D:\Desktop\UNI_Files\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPharmacyR.resources
+D:\Desktop\UNI_Files\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.Properties.Resources.resources
+D:\Desktop\UNI_Files\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\New Life Hospital Systems.csproj.GenerateResource.Cache
+C:\Users\SUNESH SADHWANI\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.exe
+C:\Users\SUNESH SADHWANI\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.pdb
+C:\Users\SUNESH SADHWANI\Desktop\New Life Hospital\Hospital_Managerment_System\bin\Debug\Hospital_Managerment_System.exe
+C:\Users\SUNESH SADHWANI\Desktop\New Life Hospital\Hospital_Managerment_System\bin\Debug\Hospital_Managerment_System.pdb
+C:\Users\SUNESH SADHWANI\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\New Life Hospital Systems.csprojResolveAssemblyReference.cache
+C:\Users\SUNESH SADHWANI\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmAbout.resources
+C:\Users\SUNESH SADHWANI\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmContactus.resources
+C:\Users\SUNESH SADHWANI\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmDoctorC.resources
+C:\Users\SUNESH SADHWANI\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmDoctorD.resources
+C:\Users\SUNESH SADHWANI\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmDoctorR.resources
+C:\Users\SUNESH SADHWANI\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmHelp.resources
+C:\Users\SUNESH SADHWANI\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmLogin.resources
+C:\Users\SUNESH SADHWANI\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmMain.resources
+C:\Users\SUNESH SADHWANI\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientC.resources
+C:\Users\SUNESH SADHWANI\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientD.resources
+C:\Users\SUNESH SADHWANI\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientR.resources
+C:\Users\SUNESH SADHWANI\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientU.resources
+C:\Users\SUNESH SADHWANI\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPharmacy.resources
+C:\Users\SUNESH SADHWANI\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPharmacyD.resources
+C:\Users\SUNESH SADHWANI\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPharmacyR.resources
+C:\Users\SUNESH SADHWANI\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.Properties.Resources.resources
+C:\Users\SUNESH SADHWANI\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\New Life Hospital Systems.csproj.GenerateResource.Cache
+C:\Users\temp\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.exe
+C:\Users\temp\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.pdb
+C:\Users\temp\Desktop\New Life Hospital\Hospital_Managerment_System\bin\Debug\Hospital_Managerment_System.exe
+C:\Users\temp\Desktop\New Life Hospital\Hospital_Managerment_System\bin\Debug\Hospital_Managerment_System.pdb
+C:\Users\temp\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\New Life Hospital Systems.csprojResolveAssemblyReference.cache
+C:\Users\temp\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmAbout.resources
+C:\Users\temp\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmContactus.resources
+C:\Users\temp\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmDoctorC.resources
+C:\Users\temp\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmDoctorD.resources
+C:\Users\temp\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmDoctorR.resources
+C:\Users\temp\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmHelp.resources
+C:\Users\temp\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmLogin.resources
+C:\Users\temp\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmMain.resources
+C:\Users\temp\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientC.resources
+C:\Users\temp\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientD.resources
+C:\Users\temp\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientR.resources
+C:\Users\temp\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientU.resources
+C:\Users\temp\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPharmacy.resources
+C:\Users\temp\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPharmacyD.resources
+C:\Users\temp\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPharmacyR.resources
+C:\Users\temp\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.Properties.Resources.resources
+C:\Users\temp\Desktop\New Life Hospital\Hospital_Managerment_System\obj\x86\Debug\New Life Hospital Systems.csproj.GenerateResource.Cache
+G:\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.exe
+G:\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.pdb
+G:\New Life Hospital-WORKED\Hospital_Managerment_System\bin\Debug\Hospital_Managerment_System.exe
+G:\New Life Hospital-WORKED\Hospital_Managerment_System\bin\Debug\Hospital_Managerment_System.pdb
+G:\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\New Life Hospital Systems.csprojResolveAssemblyReference.cache
+G:\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmAbout.resources
+G:\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmContactus.resources
+G:\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmDoctorC.resources
+G:\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmDoctorD.resources
+G:\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmDoctorR.resources
+G:\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmHelp.resources
+G:\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmLogin.resources
+G:\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmMain.resources
+G:\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientC.resources
+G:\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientD.resources
+G:\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientR.resources
+G:\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientU.resources
+G:\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPharmacy.resources
+G:\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPharmacyD.resources
+G:\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPharmacyR.resources
+G:\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.Properties.Resources.resources
+G:\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\New Life Hospital Systems.csproj.GenerateResource.Cache
+C:\Users\temp\Desktop\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.exe
+C:\Users\temp\Desktop\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.pdb
+C:\Users\temp\Desktop\New Life Hospital-WORKED\Hospital_Managerment_System\bin\Debug\Hospital_Managerment_System.exe
+C:\Users\temp\Desktop\New Life Hospital-WORKED\Hospital_Managerment_System\bin\Debug\Hospital_Managerment_System.pdb
+C:\Users\temp\Desktop\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\New Life Hospital Systems.csprojResolveAssemblyReference.cache
+C:\Users\temp\Desktop\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmAbout.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmContactus.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmDoctorC.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmDoctorD.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmDoctorR.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmHelp.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmLogin.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmMain.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientC.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientD.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientR.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientU.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPharmacy.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPharmacyD.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPharmacyR.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.Properties.Resources.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED\Hospital_Managerment_System\obj\x86\Debug\New Life Hospital Systems.csproj.GenerateResource.Cache
+C:\Users\temp\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.exe
+C:\Users\temp\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.pdb
+C:\Users\temp\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\bin\Debug\Hospital_Managerment_System.exe
+C:\Users\temp\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\bin\Debug\Hospital_Managerment_System.pdb
+C:\Users\temp\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\New Life Hospital Systems.csprojResolveAssemblyReference.cache
+C:\Users\temp\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmAbout.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmContactus.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmDoctorC.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmDoctorD.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmDoctorR.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmHelp.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmLogin.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmMain.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientC.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientD.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientR.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientU.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPharmacy.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPharmacyD.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPharmacyR.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.Properties.Resources.resources
+C:\Users\temp\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\New Life Hospital Systems.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.exe
+C:\Users\user\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.pdb
+C:\Users\user\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\bin\Debug\Hospital_Managerment_System.exe
+C:\Users\user\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\bin\Debug\Hospital_Managerment_System.pdb
+C:\Users\user\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\New Life Hospital Systems.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmAbout.resources
+C:\Users\user\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmContactus.resources
+C:\Users\user\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmDoctorC.resources
+C:\Users\user\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmDoctorD.resources
+C:\Users\user\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmDoctorR.resources
+C:\Users\user\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmHelp.resources
+C:\Users\user\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmLogin.resources
+C:\Users\user\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmMain.resources
+C:\Users\user\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientC.resources
+C:\Users\user\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientD.resources
+C:\Users\user\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientR.resources
+C:\Users\user\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPatientU.resources
+C:\Users\user\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPharmacy.resources
+C:\Users\user\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPharmacyD.resources
+C:\Users\user\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.frmPharmacyR.resources
+C:\Users\user\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.Properties.Resources.resources
+C:\Users\user\Desktop\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\New Life Hospital Systems.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Projects\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.exe
+C:\Users\user\Desktop\Projects\New Life Hospital-WORKED1.11\Hospital_Managerment_System\obj\x86\Debug\Hospital_Managerment_System.pdb
